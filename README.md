@@ -3,7 +3,7 @@
 <img width="25%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
 
 
-- 🔭 I’m currently working as an **Freelancer Designer/Developer**
+- 🔭 I’m currently working as an **Freelancer Designer / Video Editor / Frontend Developer**
 - 🌱 I also do **DSA**
 - 💬 Ask me about ... **Web Develpoment, Data Structures & Algorithms & Human Interface Guidelines**
 - 😄 Employement ... **Open for better and exciting offers**
