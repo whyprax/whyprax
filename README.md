@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=40>, I'm Pratham Dubey</h1>
 
-<img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
+<img width="25%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
 
 
 - 🔭 I’m currently working as an **Freelancer Designer/Developer**
@@ -32,8 +32,19 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/redux.png" alt=redux width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/git.png" alt=git width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/github.png" alt=github width="60" height="60"/>
-  <img style="margin: auto;" src="https://thumbnail.imgbin.com/15/14/13/imgbin-firebase-cloud-messaging-computer-icons-google-cloud-messaging-angularjs-github-yellow-folder-pr1fX3HXzRx1bSZzY6q7mTnSr_t.jpg" alt=firebase width="60" height="60"/>
+
 </p>
+
+<h4>Desktop Environment: </h4>
+<p align="left">
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/slack.png" alt=slack width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/vsc.png" alt=vs width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/atom.png" alt=atom width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/win10.png" alt=windows10 width="60" height="60"/>
+</p>
+<br />
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-637%20Thousand%20lines%20of%20code-blue)
 
 ![Prax's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyprax&show_icons=true)
 
