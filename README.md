@@ -6,7 +6,7 @@
 - 🔭 I’m currently working as an **Freelancer Designer/Developer**
 - 🌱 I also do **DSA**
 - 💬 Ask me about ... **Web Develpoment, Data Structures & Algorithms & Human Interface Guidelines**
-- 😄 Employement ... **Open for better and exiciting offers**
+- 😄 Employement ... **Open for better and exciting offers**
 - 📫 How to reach me **<a href="mailto:prathamd67@gmail.com">prathamd67@gmail.com</a>**
 
 <h4>Programming Languages: </h4>
