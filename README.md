@@ -1,21 +1,20 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=40>, I'm Pratham Dubey</h1>
 
-<img width="25%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
+<img width="25%" align="center" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
 
-
-- 🔭 I’m currently working as an **Freelancer Designer / Video Editor / Frontend Developer**
+<!-- - 🔭 I’m currently working as an **Freelancer Designer / Video Editor / Frontend Developer**
 - 🌱 I also do **DSA**
 - 💬 Ask me about ... **Web Develpoment, Data Structures & Algorithms & Human Interface Guidelines**
 - 😄 Employement ... **Open for better and exciting offers**
-- 📫 How to reach me **<a href="mailto:prathamd67@gmail.com">prathamd67@gmail.com</a>**
-
+- 📫 How to reach me **<a href="mailto:prathamd67@gmail.com">prathamd67@gmail.com</a>** -->
+<!-- 
 <h4>Programming Languages: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/c.png" alt=c width="60" height="60"/>
 </p>
-
-<h4>Skills and Tools: </h4>
+ -->
+<!-- <h4>Skills and Tools: </h4>
 <p align="left">
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/adobexd.png" alt=adobexd width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/html5.png" alt=html5 width="60" height="60"/> 
@@ -46,9 +45,9 @@
 
 <!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-637%20Thousand%20lines%20of%20code-blue) -->
 
-![Prax's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyprax&show_icons=true)
+<!-- ![Prax's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyprax&show_icons=true) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=whyprax)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=whyprax)](https://git.io/streak-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whyprax)](https://github.com/anuraghazra/github-readme-stats) -->
 
