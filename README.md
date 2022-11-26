@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=40>, I'm Pratham Dubey</h1>
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=40>, I'm Pratham Dubey</h1> -->
 
-<img width="25%" align="center" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
+<!-- <img width="25%" align="center" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" /> -->
 
 <!-- - 🔭 I’m currently working as an **Freelancer Designer / Video Editor / Frontend Developer**
 - 🌱 I also do **DSA**
