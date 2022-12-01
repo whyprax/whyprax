@@ -1,8 +1,9 @@
-<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=40>, I'm Pratham Dubey</h1> -->
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=40>, I'm Pratham Dubey</h1>
 
-<img width="25%" align="center" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
+<img width="25%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
 
-<!-- - 🔭 I’m currently working as an **Freelancer Designer / Video Editor / Frontend Developer**
+🔭 I’m currently working as an **Freelancer Designer / Video Editor / Frontend Developer**
+<!-- - 
 - 🌱 I also do **DSA**
 - 💬 Ask me about ... **Web Develpoment, Data Structures & Algorithms & Human Interface Guidelines**
 - 😄 Employement ... **Open for better and exciting offers**
