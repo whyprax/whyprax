@@ -8,9 +8,8 @@
 
 - 🌱 I also do **DSA**
 - 💬 Ask me about ... **Web Develpoment, Data Structures & Algorithms & Human Interface Guidelines**
-   Employement ... **Open for better and exciting offers**
-- 
- 
+- Employement ... **Open for better and exciting offers**
+
 <h4>Programming Languages: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
